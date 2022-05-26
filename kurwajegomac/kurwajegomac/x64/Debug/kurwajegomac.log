@@ -1,0 +1,17 @@
+﻿  Kontent.cpp
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(11,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(12,50): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(13,50): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+  Samochód.cpp
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Samochód.cpp(29,42): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Samochód.cpp(35,43): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Samochód.cpp(39,43): warning C4305: "=": obcięcie z "double" do "float"
+  liczby.cpp
+  Żaba.cpp
+  Generowanie kodu...
+  kurwajegomac.vcxproj -> C:\Users\awata\source\repos\kurwajegomac\x64\Debug\kurwajegomac.exe

@@ -1,0 +1,102 @@
+﻿  Kontent.cpp
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(49,57): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(50,62): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(51,61): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(52,62): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(53,62): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(54,62): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(56,58): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(57,62): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(58,62): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(59,62): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(60,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(61,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(62,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(63,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(65,59): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(66,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(67,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(68,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\awata\source\repos\kurwajegomac\kurwajegomac\Kontent.cpp(69,63): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Trwa generowanie kodu
+  1 of 93 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  kurwajegomac.vcxproj -> C:\Users\awata\source\repos\kurwajegomac\x64\Release\kurwajegomac.exe
